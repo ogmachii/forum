@@ -1,0 +1,12 @@
+#html{
+    background-color: lightslategrey;
+}
+#top{
+    border: 1px red solid; 
+}
+#middle{
+    border: 1px Cyan solid; 
+}
+#bottom{
+    border: 1px Magenta  solid; 
+}

@@ -1,0 +1,20 @@
+#html{
+    background-color: lightslategrey;
+}
+#top{
+    border: 1px red solid; 
+}
+#middle{
+    border: 1px Cyan solid; 
+    width: 100%;
+
+}
+#articleForm, #articleUpdate {
+    width:33.33%;
+    background: blue;
+    
+  }
+#bottom{
+    border: 1px Magenta  solid; 
+    width: 100%;
+}
